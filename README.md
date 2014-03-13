@@ -12,7 +12,7 @@ guidelines mentioned at:
 
 ## Tests
 
-### General
+#### General
 
 - Each declaration should appear on its own line.
 - Selectors must be on a new line, multiple selectors on a line are not allowed.
@@ -20,17 +20,17 @@ guidelines mentioned at:
 - Closing braces of declaration blocks on a new line.
 - Must end with a new line.
 
-### Whitespace, indentation and spacing
+#### Whitespace, indentation and spacing
 
 - Use soft tabs with two spaces.
 - Include one space after the colon for each declaration.
 - End all declarations with a semi-colon.
 
-### Shorthand notation
+#### Shorthand notation
 
 - Use shorthand hex values where available, e.g., #fff instead of #ffffff.
 
-### Selector names
+#### Selector names
 
 - Must use hyphens to separate words, not underscores or camel casing.
 
